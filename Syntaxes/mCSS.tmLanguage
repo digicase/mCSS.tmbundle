@@ -149,7 +149,7 @@
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>source.css</string>
+			<string>source.css, source.scss</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
