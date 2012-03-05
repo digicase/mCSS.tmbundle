@@ -9,7 +9,7 @@ transition: ${1:color} ${2:.5}s ${3:ease-out};$0</string>
 	<key>name</key>
 	<string>transition</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
 	<string>3t</string>
 	<key>uuid</key>

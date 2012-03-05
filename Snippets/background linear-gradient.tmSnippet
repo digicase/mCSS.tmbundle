@@ -9,7 +9,7 @@ background: linear-gradient(#${1:666}, #${2:ccc});$0</string>
 	<key>name</key>
 	<string>background linear-gradient</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
 	<string>bglg</string>
 	<key>uuid</key>

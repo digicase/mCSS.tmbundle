@@ -17,7 +17,7 @@
 	<key>output</key>
 	<string>replaceSelectedText</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>uuid</key>
 	<string>AE90CF73-CF43-4F03-804C-B3FC218C49FE</string>
 </dict>

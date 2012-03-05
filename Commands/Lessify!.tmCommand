@@ -21,7 +21,7 @@ rescan_project</string>
 	<key>output</key>
 	<string>discard</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>uuid</key>
 	<string>C06F4F5E-AF7F-4C65-8B4B-0FDF41F1BC27</string>
 </dict>
