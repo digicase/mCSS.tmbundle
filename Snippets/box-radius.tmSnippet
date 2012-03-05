@@ -9,7 +9,7 @@ border-radius: ${1:5}px;$0</string>
 	<key>name</key>
 	<string>box-radius</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
 	<string>3br</string>
 	<key>uuid</key>

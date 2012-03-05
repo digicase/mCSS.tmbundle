@@ -23,7 +23,7 @@ echo -ne "\n	background: url('\${2:$TM_DROPPED_FILE}') no-repeat;\n}\$0"</string
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>uuid</key>
 	<string>D6D0BEB2-DF32-4762-ABC1-3465116C220A</string>
 </dict>

@@ -7,6 +7,8 @@
 		<string>css</string>
 		<string>css.erb</string>
 		<string>less</string>
+		<string>scss</string>
+		<string>css.scss</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>/\*\*(?!\*)|\{\s*($|/\*(?!.*?\*/.*\S))</string>
@@ -147,7 +149,7 @@
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>source.css</string>
+			<string>source.css, source.scss</string>
 		</dict>
 	</array>
 	<key>scopeName</key>

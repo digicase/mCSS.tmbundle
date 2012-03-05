@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>background-color: RGB</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
 	<string>bgcrgb</string>
 	<key>uuid</key>

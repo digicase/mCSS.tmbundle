@@ -9,7 +9,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#${1}', endCol
 	<key>name</key>
 	<string>background: gradient (linear)</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
 	<string>bgg</string>
 	<key>uuid</key>

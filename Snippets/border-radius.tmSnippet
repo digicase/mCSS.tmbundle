@@ -10,7 +10,7 @@ ${2:behavior: url(_css/PIE.htc);}$0</string>
 	<key>name</key>
 	<string>border-radius</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
 	<string>3br</string>
 	<key>uuid</key>

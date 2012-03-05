@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>visited</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
 	<string>:v</string>
 	<key>uuid</key>

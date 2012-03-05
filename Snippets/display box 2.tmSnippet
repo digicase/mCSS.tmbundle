@@ -9,7 +9,7 @@ display: box;$0</string>
 	<key>name</key>
 	<string>display box</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
 	<string>db</string>
 	<key>uuid</key>
